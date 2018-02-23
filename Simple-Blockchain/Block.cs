@@ -15,10 +15,6 @@ namespace Simple_Blockchain
         public string previous_hash;
         public string hash;
 
-        public Block()
-        {
-        }
-
         // The Definition of a Block
         public Block(int index, DateTime timestamp, string data, string previous_hash)
         {
