@@ -12,3 +12,5 @@ It uses **SHA-256** as **Hash**, I slightly modified the code from the tutorial 
 ## 🖼 Example 🖼
 
 ![Simple Blockchain C# Command Line](Images/Simple-Blockchain_example.png)
+
+![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
